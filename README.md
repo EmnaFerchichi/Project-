@@ -75,6 +75,3 @@ Your project is ready to run. Run your **testng.xml** file and enjoy the automat
 
  
 	
-Your project is ready to run. Run your **testng.xml** file and enjoy the automatic web-driver task.
->>>>>>> f9a8049 (Full project in Maven)
->>>>>>> 3f3ccf1ee3388d7800326b22849ef35adea8728d
